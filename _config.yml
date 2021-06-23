@@ -6,7 +6,7 @@ about: Postdoctoral Research Associate <br> Washington University in St. Louis
 disqus_shortname: Home
 google_analytics: UA-XXXXXXXX-Y
 
-enableTags: true
+enableTags: false
 tagarray: []
 
 collections:
@@ -26,7 +26,7 @@ social:
    # - icon: fa-github
    #   link: "https://github.com/agusmakmun"
 
-share:
+#share:
   #twitter_username: github.io
   #fb_appid: 1749788565247320
 
