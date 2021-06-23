@@ -1,10 +1,10 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+title: Vignesh Narayanan
+description: Home Page
+author: Vignesh Narayanan
+#github: https://github.com/vigsnar
+about: Postdoctoral Research Associate <br> Washington University in St. Louis
+#disqus_shortname: stackproblems
+#google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
 tagarray: []
@@ -15,30 +15,30 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
+   # - icon: fa-facebook
+   #   link: "#"
+   # - icon: fa-twitter
+   #   link: "#"
     - icon: fa-linkedin
       link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/agusmakmun"
+   # - icon: fa-stack-exchange
+   #   link: "#"
+   # - icon: fa-github
+   #   link: "https://github.com/agusmakmun"
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  #twitter_username: github.io
+  #fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    - text: research
+      url: /research/
+    - text: publications
+      url: /publications/
+   # - text: XML Feed
+    #  url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+#url: "https://agusmakmun.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
