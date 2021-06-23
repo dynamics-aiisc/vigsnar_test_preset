@@ -1,10 +1,10 @@
 title: Vignesh Narayanan
 description: Home Page
 author: Vignesh Narayanan
-#github: https://github.com/vigsnar
+github: https://github.com/vigsnar
 about: Postdoctoral Research Associate <br> Washington University in St. Louis
-#disqus_shortname: stackproblems
-#google_analytics: UA-XXXXXXXX-Y
+disqus_shortname: Home
+google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
 tagarray: []
@@ -35,8 +35,8 @@ urls:
       url: /research/
     - text: publications
       url: /publications/
-   # - text: XML Feed
-    #  url: /feed.xml
+    #- text: XML Feed
+    #url: /feed.xml
 
 url: "https://vigsnar.github.io"
 baseurl: ""
