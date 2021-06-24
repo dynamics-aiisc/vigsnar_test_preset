@@ -55,7 +55,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 3. Yao-Chi Yu, **Vignesh Narayanan**, Shinung Ching, and Jr-Shin Li, "Learning to control neurons using aggregated measurements," in IEEE American Control Conference (ACC), Denver, USA, pp.4028-4033, 2020.
 
-4. Wei Zhang, **Vignesh Narayanan**, and Jr-Shin Li, "Robust population transfer for coupled spin ensembles," in IEEE Conference on Decision and Control (CDC), Nice, France, pp.419-424, 2019.
+4. Wei Zhang, **Vignesh Narayanan**, and Jr-Shin Li, "Robust population transfer for coupled spin ensembles," in IEEE Conference on Decision and Control (CDC), Nice, France, pp.419-424, 2019. <a href="https://par.nsf.gov/servlets/purl/10201748">[pdf]</a>
 
 5. **Vignesh Narayanan**, Jason Ritt, Jr-Shin Li, and Shinung Ching, "A learning framework for controlling spiking neural networks," in IEEE American Control Conference (ACC), Philadelphia, USA, pp.211-216 , 2019.
 
