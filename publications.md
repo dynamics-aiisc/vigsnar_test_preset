@@ -16,7 +16,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 4. Avimanyu Sahoo and **Vignesh Narayanan**, "Differential-game for resource aware approximate optimal control of large-scale nonlinear systems with multiple players," *Neural Networks*, Elsevier, vol. 124, pp.95-108, 2020.
 
-5. **Vignesh Narayanan**, Hamidreza Modares, and Sarangapani Jagannathan, "Optimal event-triggered control of input-affine nonlinear interconnected systems using multi-player games,” *International Journal of Robust and Nonlinear Control*, vol. 31(3), pp.950-970, 2021. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/rnc.5321">[pdf]</a>
+5. **Vignesh Narayanan**, Hamidreza Modares, and Sarangapani Jagannathan, "Optimal event-triggered control of input-affine nonlinear interconnected systems using multi-player games,” *International Journal of Robust and Nonlinear Control*, vol. 31(3), pp.950-970, 2021.
 
 6. Wei-Cheng Jiang, **Vignesh Narayanan**, and Jr-Shin Li, "Model learning and knowledge sharing for cooperative multiagent systems in stochastic environment," *IEEE Transactions on Cybernetics*, in press. <a href="https://par.nsf.gov/servlets/purl/10184841">[pdf]</a>
 
