@@ -8,7 +8,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 #### Journal Articles
 
-1. Liang Wang, **Vignesh Narayanan**, Yao-Chi Yu, Yikyung Park, and Jr-Shin Li, "A two-stage hierarchical clustering method for structured temporal sequence data," *Knowledge and Information Systems*,  vol.63(7), pp.1627-1662, 2021.
+1. Liang Wang, **Vignesh Narayanan**, Yao-Chi Yu, Yikyung Park, and Jr-Shin Li, "A two-stage hierarchical clustering method for structured temporal sequence data," *Knowledge and Information Systems*,  vol.63(7), pp.1627-1662, 2021. <a href="https://link.springer.com/epdf/10.1007/s10115-021-01578-0?sharing_token=0LBNPZsjy88XU9q1pBNJLPe4RwlQNchNByi7wbcMAY7peS9VKRUUfPLAFdn6O24TJiRGQ5vw5vGLl5_Fr-aecqsZBMoL0hPv2HA19ED5Y6Fr2WDZLJcjKcxavuQX_DtjNRiPvLht4lewN3452qmwO5CHgaWJKq29kuzJKYFVmBo%3D">[pdf]</a>
 
 2. Wei Miao, **Vignesh Narayanan**, and Jr-Shin Li, "Parallel residual projection: a new paradigm for solving linear inverse problems," *Scientific Reports*, vol. 10(1), pp.1-10, 2020. <a href="https://www.nature.com/articles/s41598-020-69640-5">[pdf]</a>
 
