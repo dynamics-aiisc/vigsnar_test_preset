@@ -37,7 +37,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 14. Nathan Szanto, **Vignesh Narayanan**, and Sarangapani Jagannathan, "Event-sampled direct adaptive neural network output- and state-feedback control of uncertain strict-feedback system," *IEEE Transactions on Neural Networks and Learning Systems*, vol. 29(5), pp.1850-1863, 2017. 
 
-15. **Vignesh Narayanan** and Sarangapani Jagannathan, "Distributed adaptive optimal regulation of uncertain large-scale interconnected systems using hybrid $Q$-learning approach," *IET Control Theory and Applications*, vol. 10(12), pp. 1448-1457, 2016. 
+15. **Vignesh Narayanan** and Sarangapani Jagannathan, "Distributed adaptive optimal regulation of uncertain large-scale interconnected systems using hybrid Q-learning approach," *IET Control Theory and Applications*, vol. 10(12), pp. 1448-1457, 2016. 
 
 
 #### Preprints
@@ -93,19 +93,19 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 22. **Vignesh Narayanan**, Avimanyu Sahoo, and Sarangapani Jagannathan, "Optimal regulation of uncertain linear discrete-time systems using event-sampled Q-learning and adaptive dynamic programming,” in 17th Yale Workshop on Adaptive and Learning Systems, 2015.
 
-23. **Vignesh Narayanan**, Akhilesh Swarup, and Pulak Halder, "Design of autopilots for tactical aerospace vehicles: a comparative study," in IFAC Proceedings, vol.47(1), pp. 271-278, 2014.
+23. **Vignesh Narayanan**, Akhilesh Swarup, and Pulak Halder, "Design of autopilots for tactical aerospace vehicles: a comparative study," in IFAC Proceedings, vol.47(1), pp. 271-278, 2014. <a href="https://reader.elsevier.com/reader/sd/pii/S1474667016326672?token=A456CCFDAE68571FE9DC96F7FEDD1D40866ECA992F88DEE81C2FEA2E4125D77A4E3940CF7B4DC3DAE00F641ED942AFEF&originRegion=us-east-1&originCreation=20210624055653">[pdf]</a>
 
-24. Siddhardha Kedarisetty, **Vignesh Narayanan**, and Pulak Halder, "Autopilot design for flexible tactical aerospace vehicle using parameter plane technique," in IFAC Proceedings, vol. 47(1), pp. 211-218, 2014.
+24. Siddhardha Kedarisetty, **Vignesh Narayanan**, and Pulak Halder, "Autopilot design for flexible tactical aerospace vehicle using parameter plane technique," in IFAC Proceedings, vol. 47(1), pp. 211-218, 2014. <a href="https://reader.elsevier.com/reader/sd/pii/S1474667016326593?token=4A4BA8AEB1DEC9CB0B3392CFF6CBC139D38C7697BB12005A7A61B9F21420F8FF71AEE5277440AD0BBE05EE98ACA01708&originRegion=us-east-1&originCreation=20210624055608">[pdf]</a>
 
 #### Contributed Book Chapters
 
-1. **Vignesh Narayanan**, Haci Mehmet Guzey, and Sarangapani Jagannathan, "Event sampled adaptive control of robot manipulators and mobile robot formations," *Adaptive control for robotic manipulators*, Editors: Dan Zhang, Bin Wei, CRC Press/Taylor & Francis Group, pp.124-158, 2016.
+1. **Vignesh Narayanan**, Haci Mehmet Guzey, and Sarangapani Jagannathan, "Event sampled adaptive control of robot manipulators and mobile robot formations," *Adaptive control for robotic manipulators*, Editors: Dan Zhang, Bin Wei, CRC Press/Taylor & Francis Group, pp.124-158, 2016. <a href="https://www.taylorfrancis.com/books/edit/10.1201/9781315166056/adaptive-control-robotic-manipulators-dan-zhang-bin-wei">[abstract]</a>
 
 2. Rohollah Moghadam, Sarangapani Jagannathan, **Vignesh Narayanan**, and Krishnan Raghavan, "Optimal adaptive control of partially uncertain linear continuous-time systems with state delay,” in press.
 
 #### Contributed Magazine Articles
 
-1. Avimanyu Sahoo, **Vignesh Narayanan**, Jagannathan Sarangapani, "Resource aware learning-based optimal control of cyber-physical systems,” in *TC-CPS Newsletter*, vol. 6(1), pp.24-34, March-2021.
+1. Avimanyu Sahoo, **Vignesh Narayanan**, Jagannathan Sarangapani, "Resource aware learning-based optimal control of cyber-physical systems,” in *TC-CPS Newsletter*, vol. 6(1), pp.24-34, March-2021. <a href="http://www.cse.cuhk.edu.hk/~byu/TC-CCPS/doc/newsletter/TC-CPS-letter-202103.pdf">[pdf]</a>
 
 #### Posters and Abstracts
 
