@@ -10,7 +10,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 1. Liang Wang, **Vignesh Narayanan**, Yao-Chi Yu, Yikyung Park, and Jr-Shin Li, "A two-stage hierarchical clustering method for structured temporal sequence data," *Knowledge and Information Systems*,  vol.63(7), pp.1627-1662, 2021.
 
-2. Wei Miao, **Vignesh Narayanan**, and Jr-Shin Li, "Parallel residual projection: a new paradigm for solving linear inverse problems," *Scientific Reports*, vol. 10(1), pp.1-10, 2020.
+2. Wei Miao, **Vignesh Narayanan**, and Jr-Shin Li, "Parallel residual projection: a new paradigm for solving linear inverse problems," *Scientific Reports*, vol. 10(1), pp.1-10, 2020. <a href="https://www.nature.com/articles/s41598-020-69640-5">[pdf]</a>
 
 3. **Vignesh Narayanan**, Hamidreza Modares, Sarangapani Jagannathan, and Frank L. Lewis, "Event-driven off-policy reinforcement learning for control of interconnected systems," *IEEE Transactions on Cybernetics*, in press.
 
@@ -18,7 +18,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 5. **Vignesh Narayanan**, Hamidreza Modares, and Sarangapani Jagannathan, "Optimal event-triggered control of input-affine nonlinear interconnected systems using multi-player games,” *International Journal of Robust and Nonlinear Control*, in press.
 
-6. Wei-Cheng Jiang, **Vignesh Narayanan*, and Jr-Shin Li, "Model learning and knowledge sharing for cooperative multiagent systems in stochastic environment," *IEEE Transactions on Cybernetics*, in press. <a href="https://par.nsf.gov/servlets/purl/10184841">[pdf]</a>
+6. Wei-Cheng Jiang, **Vignesh Narayanan**, and Jr-Shin Li, "Model learning and knowledge sharing for cooperative multiagent systems in stochastic environment," *IEEE Transactions on Cybernetics*, in press. <a href="https://par.nsf.gov/servlets/purl/10184841">[pdf]</a>
 
 
 7. **Vignesh Narayanan**, Jr-Shin Li, and Shinung Ching, "Biophysically interpretable inference of single neuron dynamics," *Journal of Computational Neuroscience*, Springer, vol. 47(1), pp.61-76, 2019. <a href="http://website60s.com/upload/files/journal-of-computational-neuroscience-vol-47-iss-1-5.pdf">[pdf]</a>
@@ -42,7 +42,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 #### Preprints
 
-1. **Vignesh Narayanan**, Wei Zhang, and Jr-Shin Li, "Moment-based ensemble control". (preprint arXiv:2009.02646)
+1. **Vignesh Narayanan**, Wei Zhang, and Jr-Shin Li, "Moment-based ensemble control". (preprint arXiv:2009.02646) <a href="https://arxiv.org/pdf/2009.02646.pdf">[pdf]</a>
 
 2. **Vignesh Narayanan**, Wei Miao, and Jr-Shin Li, "Disentangling drift-and control-vector fields for interpretable inference of control-affine systems". (preprint arXiv:2004.10954) <a href="https://arxiv.org/pdf/2004.10954.pdf">[pdf]</a>
 
