@@ -18,10 +18,10 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 5. **Vignesh Narayanan**, Hamidreza Modares, and Sarangapani Jagannathan, "Optimal event-triggered control of input-affine nonlinear interconnected systems using multi-player games,” *International Journal of Robust and Nonlinear Control*, in press.
 
-6. Wei-Cheng Jiang, **Vignesh Narayanan*, and Jr-Shin Li, "Model learning and knowledge sharing for cooperative multiagent systems in stochastic environment," *IEEE Transactions on Cybernetics*, in press.
+6. Wei-Cheng Jiang, **Vignesh Narayanan*, and Jr-Shin Li, "Model learning and knowledge sharing for cooperative multiagent systems in stochastic environment," *IEEE Transactions on Cybernetics*, in press. <a href="https://par.nsf.gov/servlets/purl/10184841">[pdf]</a>
 
 
-7. **Vignesh Narayanan**, Jr-Shin Li, and Shinung Ching, "Biophysically interpretable inference of single neuron dynamics," *Journal of Computational Neuroscience*, Springer, vol. 47(1), pp.61-76, 2019.
+7. **Vignesh Narayanan**, Jr-Shin Li, and Shinung Ching, "Biophysically interpretable inference of single neuron dynamics," *Journal of Computational Neuroscience*, Springer, vol. 47(1), pp.61-76, 2019. <a href="http://website60s.com/upload/files/journal-of-computational-neuroscience-vol-47-iss-1-5.pdf">[pdf]</a>
 
 8. Avimanyu Sahoo and **Vignesh Narayanan**, "Optimization of sampling intervals for tracking control of nonlinear systems: A game theoretic approach," *Neural Networks*, Elsevier, vol. 114, pp.78-90, 2019.
 
@@ -44,7 +44,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 1. **Vignesh Narayanan**, Wei Zhang, and Jr-Shin Li, "Moment-based ensemble control". (preprint arXiv:2009.02646)
 
-2. **Vignesh Narayanan**, Wei Miao, and Jr-Shin Li, "Disentangling drift-and control-vector fields for interpretable inference of control-affine systems". (preprint arXiv:2004.10954)
+2. **Vignesh Narayanan**, Wei Miao, and Jr-Shin Li, "Disentangling drift-and control-vector fields for interpretable inference of control-affine systems". (preprint arXiv:2004.10954) <a href="https://arxiv.org/pdf/2004.10954.pdf">[pdf]</a>
 
 #### Conference Papers
 
@@ -63,7 +63,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 7. Avimanyu Sahoo and **Vignesh Narayanan**, "Event-based near optimal sampling and tracking control of nonlinear systems," in IEEE Conference on Decision and Control (CDC),  Miami Beach, FL, USA, pp.55-60, 2018.
 
-8. **Vignesh Narayanan*, Avimanyu Sahoo, and Sarangapani Jagannathan, "Approximate optimal distributed control of nonlinear interconnected systems using nonzero-sum games," in IEEE Conference on Decision and Control (CDC), Miami Beach, FL, USA, pp.2872-2877, 2018.
+8. **Vignesh Narayanan**, Avimanyu Sahoo, and Sarangapani Jagannathan, "Approximate optimal distributed control of nonlinear interconnected systems using nonzero-sum games," in IEEE Conference on Decision and Control (CDC), Miami Beach, FL, USA, pp.2872-2877, 2018.
 
 9. **Vignesh Narayanan**, Avimanyu Sahoo, and Sarangapani Jagannathan, "Optimal adaptive distributed control of linear interconnected systems," in IEEE Symposium Series on Computational Intelligence (SSCI), Bangalore, India, pp.1441-1446, 2018.
 
@@ -75,7 +75,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 13. Avimanyu Sahoo, **Vignesh Narayanan**, and Sarangapani Jagannathan, "Optimal sampling and regulation of uncertain interconnected linear continuous time systems," in IEEE Symposium Series on Computational Intelligence (SSCI), Honolulu, HI, 2017. 
 
-14. Haci Mehmet Guzey, **Vignesh Narayanan**, Sarangapani Jagannathan, Travis Dierks, and Levent Acar, "Distributed consensus-based event-triggered approximate control of non-holonomic mobile robot formations," in IEEE American Control Conference (ACC), Seattle, WA, USA, pp.3194-3199, 2017.
+14. Haci Mehmet Guzey, **Vignesh Narayanan**, Sarangapani Jagannathan, Travis Dierks, and Levent Acar, "Distributed consensus-based event-triggered approximate control of non-holonomic mobile robot formations," in IEEE American Control Conference (ACC), Seattle, WA, USA, pp.3194-3199, 2017. <a href="https://www.researchgate.net/profile/Haci-Mehmet-Guzey/publication/318335434_Distributed_consensus-based_event-triggered_approximate_control_of_nonholonomic_mobile_robot_formations/links/5a92a8080f7e9ba4296e5bf3/Distributed-consensus-based-event-triggered-approximate-control-of-nonholonomic-mobile-robot-formations.pdf">[pdf]</a>
 
 15. Nathan Szanto, **Vignesh Narayanan**, and Sarangapani Jagannathan, "Event-sampled control of quadrotor unmanned aerial vehicle," in IEEE American Control Conference (ACC), Seattle, WA, USA, pp.2956-2961, 2017.
 
