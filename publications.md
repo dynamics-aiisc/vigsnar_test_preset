@@ -27,7 +27,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 9. **Vignesh Narayanan**, Avimanyu Sahoo,  Sarangapani Jagannathan, and Koshy George, "Approximate optimal distributed control of nonlinear interconnected systems using event-triggered nonzero-sum games," *IEEE Transactions on Neural Networks and Learning systems*, vol. 30(5), pp.1512-1522, 2018.
 
-10. Avimanyu Sahoo, **Vignesh Narayanan**, and Sarangapani Jagannathan, "A min–max approach to event- and self-triggered sampling and regulation of linear systems," *IEEE Transactions on Industrial Electronics*, vol. 66(7), pp.5433-5440, 2018.
+10. Avimanyu Sahoo, **Vignesh Narayanan**, and Sarangapani Jagannathan, "A min–max approach to event- and self-triggered sampling and regulation of linear systems," *IEEE Transactions on Industrial Electronics*, vol. 66(7), pp.5433-5440, 2018. 
 
 11. **Vignesh Narayanan**, Sarangapani Jagannathan, and Ram Kumar, "Event-sampled output feedback control of robotic manipulators using neural networks," *IEEE Transactions on Neural Networks and Learning Systems*, vol. 30(6), pp.1651-1658, 2017.
 
