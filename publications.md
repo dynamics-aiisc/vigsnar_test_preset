@@ -14,7 +14,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 3. **Vignesh Narayanan**, Hamidreza Modares, Sarangapani Jagannathan, and Frank L. Lewis, "Event-driven off-policy reinforcement learning for control of interconnected systems," *IEEE Transactions on Cybernetics*, in press. <a href="https://github.com/vigsnar/vigsnar.github.io/raw/master/_Publications/Off_policy_learning_%20Cyb.pdf">[pdf-download]</a>
 
-4. Avimanyu Sahoo and **Vignesh Narayanan**, "Differential-game for resource aware approximate optimal control of large-scale nonlinear systems with multiple players," *Neural Networks*, Elsevier, vol. 124, pp.95-108, 2020.
+4. Avimanyu Sahoo and **Vignesh Narayanan**, "Differential-game for resource aware approximate optimal control of large-scale nonlinear systems with multiple players," *Neural Networks*, Elsevier, vol. 124, pp.95-108, 2020. <a href="https://github.com/vigsnar/vigsnar.github.io/raw/master/_Publications/NNs_Diff-game-Nplayers.pdf">[pdf-download]</a>
 
 5. **Vignesh Narayanan**, Hamidreza Modares, and Sarangapani Jagannathan, "Optimal event-triggered control of input-affine nonlinear interconnected systems using multi-player games,” *International Journal of Robust and Nonlinear Control*, vol. 31(3), pp.950-970, 2021. <a href="https://github.com/vigsnar/vigsnar.github.io/raw/master/_Publications/IJRNC%20Published.pdf">[pdf-download]</a>
 
@@ -23,7 +23,7 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 7. **Vignesh Narayanan**, Jr-Shin Li, and Shinung Ching, "Biophysically interpretable inference of single neuron dynamics," *Journal of Computational Neuroscience*, Springer, vol. 47(1), pp.61-76, 2019. <a href="http://website60s.com/upload/files/journal-of-computational-neuroscience-vol-47-iss-1-5.pdf">[pdf]</a>
 
-8. Avimanyu Sahoo and **Vignesh Narayanan**, "Optimization of sampling intervals for tracking control of nonlinear systems: A game theoretic approach," *Neural Networks*, Elsevier, vol. 114, pp.78-90, 2019.
+8. Avimanyu Sahoo and **Vignesh Narayanan**, "Optimization of sampling intervals for tracking control of nonlinear systems: A game theoretic approach," *Neural Networks*, Elsevier, vol. 114, pp.78-90, 2019. <a href="https://github.com/vigsnar/vigsnar.github.io/raw/master/_Publications/NNs_Tracking_2players.pdf">[pdf-download]</a>
 
 9. **Vignesh Narayanan**, Avimanyu Sahoo,  Sarangapani Jagannathan, and Koshy George, "Approximate optimal distributed control of nonlinear interconnected systems using event-triggered nonzero-sum games," *IEEE Transactions on Neural Networks and Learning systems*, vol. 30(5), pp.1512-1522, 2018. <a href="https://github.com/vigsnar/vigsnar.github.io/raw/master/_Publications/TNNL%20Nonzero%20sum%20game%20for%20distributed%20control.pdf">[pdf-download]</a>
 
