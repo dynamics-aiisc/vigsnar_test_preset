@@ -99,9 +99,9 @@ Here is a complete list of my <a href="https://scholar.google.com/citations?user
 
 #### Contributed Book Chapters
 
-1. **Vignesh Narayanan**, Haci Mehmet Guzey, and Sarangapani Jagannathan, "Event sampled adaptive control of robot manipulators and mobile robot formations," *Adaptive control for robotic manipulators*, Editors: Dan Zhang, Bin Wei, CRC Press/Taylor & Francis Group, pp.124-158, 2016. <a href="https://www.taylorfrancis.com/books/edit/10.1201/9781315166056/adaptive-control-robotic-manipulators-dan-zhang-bin-wei">[abstract]</a>
+1. **Vignesh Narayanan**, Haci Mehmet Guzey, and Sarangapani Jagannathan, "Event sampled adaptive control of robot manipulators and mobile robot formations," *Adaptive Control for Robotic Manipulators*, Editors: Dan Zhang, Bin Wei, CRC Press/Taylor & Francis Group, pp.124-158, 2016. <a href="https://www.taylorfrancis.com/books/edit/10.1201/9781315166056/adaptive-control-robotic-manipulators-dan-zhang-bin-wei">[abstract]</a>
 
-2. Rohollah Moghadam, Sarangapani Jagannathan, **Vignesh Narayanan**, and Krishnan Raghavan, "Optimal adaptive control of partially uncertain linear continuous-time systems with state delay,” in press.
+2. Rohollah Moghadam, Sarangapani Jagannathan, **Vignesh Narayanan**, and Krishnan Raghavan, "Optimal adaptive control of partially uncertain linear continuous-time systems with state delay,” *Handbook of Reinforcement Learning and Control*, Editors: Kyriakos G. Vamvoudakis, Yan Wan, Frank Lewis, and Derya Cansever, Springer International Publishing, pp.243-272, 2021. <a href="https://www.springer.com/gp/book/9783030609894">[Details]</a>
 
 #### Contributed Magazine Articles
 
