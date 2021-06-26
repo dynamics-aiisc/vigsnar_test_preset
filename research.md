@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 <figure>
-<img width="600" height="450" src="https://github.com/vigsnar/vigsnar.github.io/raw/master/_figures/AML_photo_ps.jpg" alt="minions">
+<img align="center" width="600" height="450" src="https://github.com/vigsnar/vigsnar.github.io/raw/master/_figures/AML_photo_ps.jpg">
  </figure>
 
 <!--The focus of my current research is on the areas of dynamical systems and networks, data science and learning theory, and computational neuroscience.-->
