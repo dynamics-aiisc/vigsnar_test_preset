@@ -33,7 +33,7 @@ The proposed research in data-integrated systems theory has immediate applicatio
 spike sequence control in a network of neuron models. In line with my past and current research efforts, I will continue to focus on problems that are of great urgency and relevance in the application domains including robotics, neuroscience, and energy systems. 
    
 Furthermore, while several complex systems are engineered to enable automation and reduce human risk, the ability of many naturally occurring dynamical systems to perform complex tasks with energy efficiency, reliability, and robustness is still not fully understood. This introduces a compelling need to seek novel ways to identify and understand natural processes of interest, which can help improve and synthesize efficient engineering systems. Specifically, I am interested in using systems and learning approaches to uncover population coding mechanism in neural networks, where I will seek to expand and build on my work of reconstructing neural models. I am also interested in collaborating with fields experts in diverse areas including biology and medicine to bridge the gap between the developed theory and practical applications.
-  <center><embed><width="600" height="450" src="https://github.com/vigsnar/vigsnar.github.io/blob/master/_figures/NeuronSnapshots3.pdf" type="application/pdf"></center>
+  <center><embed src="https://github.com/vigsnar/vigsnar.github.io/blob/master/_figures/NeuronSnapshots3.pdf" type="application/pdf"></center>
 
  
  <h4>Applications</h4>
