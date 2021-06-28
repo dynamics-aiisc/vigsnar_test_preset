@@ -30,14 +30,13 @@ permalink: /research/
  <h4> Computational intelligence</h4>
 
 <h3>Computational Neuroscience</h3>
+<h4>Modeling and stimulation of neural ensembles</h4>
+ <h4>Data analysis and dynamic learning</h4>
 <!-- <center><figure><img width="600" height="450" src="https://raw.githubusercontent.com/vigsnar/vigsnar.github.io/master/_figures/Manifold_0_matlab.svg"></figure></center>-->
 <!--The proposed research in data-integrated systems theory has immediate applications in multidisciplinary areas. I am particularly interested in incorporating the developed theory in specific applications domains, and to this end, I have proposed data-integrated control design methodologies for robotic systems, e.g., robot manipulators, unmanned aerial vehicles, formation control of mobile robots, and 
 spike sequence control in a network of neuron models. In line with my past and current research efforts, I will continue to focus on problems that are of great urgency and relevance in the application domains including robotics, neuroscience, and energy systems. 
    
-Furthermore, while several complex systems are engineered to enable automation and reduce human risk, the ability of many naturally occurring dynamical systems to perform complex tasks with energy efficiency, reliability, and robustness is still not fully understood. This introduces a compelling need to seek novel ways to identify and understand natural processes of interest, which can help improve and synthesize efficient engineering systems. Specifically, I am interested in using systems and learning approaches to uncover population coding mechanism in neural networks, where I will seek to expand and build on my work of reconstructing neural models. I am also interested in collaborating with fields experts in diverse areas including biology and medicine to bridge the gap between the developed theory and practical applications.-->
- <h4>Modeling and stimulation of neural ensembles</h4>
- <h4>Data analysis and dynamic learning</h4>
- 
+Furthermore, while several complex systems are engineered to enable automation and reduce human risk, the ability of many naturally occurring dynamical systems to perform complex tasks with energy efficiency, reliability, and robustness is still not fully understood. This introduces a compelling need to seek novel ways to identify and understand natural processes of interest, which can help improve and synthesize efficient engineering systems. Specifically, I am interested in using systems and learning approaches to uncover population coding mechanism in neural networks, where I will seek to expand and build on my work of reconstructing neural models. I am also interested in collaborating with fields experts in diverse areas including biology and medicine to bridge the gap between the developed theory and practical applications.--
  <!-- <object data="https://github.com/vigsnar/vigsnar.github.io/blob/master/_figures/NeuronSnapshots3.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/vigsnar/vigsnar.github.io/blob/master/_figures/NeuronSnapshots3.pdf">
     </embed>
