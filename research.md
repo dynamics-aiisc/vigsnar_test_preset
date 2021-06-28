@@ -32,6 +32,9 @@ permalink: /research/
 <h3>Computational Neuroscience</h3>
 <h4>Modeling and stimulation of neural ensembles</h4>
  <h4>Data analysis and dynamic learning</h4>
+ <h3>Applications</h3>
+ <h4>Dynamic data analytics for medical and health informatics </h4>
+ <h4>Learning, estimation, and control of robotic systems</h4>
 <!-- <center><figure><img width="600" height="450" src="https://raw.githubusercontent.com/vigsnar/vigsnar.github.io/master/_figures/Manifold_0_matlab.svg"></figure></center>-->
 <!--The proposed research in data-integrated systems theory has immediate applications in multidisciplinary areas. I am particularly interested in incorporating the developed theory in specific applications domains, and to this end, I have proposed data-integrated control design methodologies for robotic systems, e.g., robot manipulators, unmanned aerial vehicles, formation control of mobile robots, and 
 spike sequence control in a network of neuron models. In line with my past and current research efforts, I will continue to focus on problems that are of great urgency and relevance in the application domains including robotics, neuroscience, and energy systems.
@@ -41,9 +44,7 @@ Furthermore, while several complex systems are engineered to enable automation a
     </embed>
 </object>
  <center><embed src="https://github.com/vigsnar/vigsnar.github.io/blob/master/_figures/NeuronSnapshots3.pdf" type="application/pdf"></center>-->
- <h3>Applications</h3>
- <h4>Dynamic data analytics for medical and health informatics </h4>
- <h4>Learning, estimation, and control of robotic systems</h4>
+ 
 <!--The proposed research in data-integrated systems theory has immediate applications in multidisciplinary areas. I am particularly interested in incorporating the developed theory in specific applications domains, and to this end, I have proposed data-integrated control design methodologies for robotic systems, e.g., robot manipulators, unmanned aerial vehicles, formation control of mobile robots, and 
 spike sequence control in a network of neuron models. In line with my past and current research efforts, I will continue to focus on problems that are of great urgency and relevance in the application domains including robotics, neuroscience, and energy systems.
    
